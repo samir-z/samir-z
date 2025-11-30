@@ -5,7 +5,7 @@ Soy estudiante de **Ingeniería Mecatrónica** en la **UTP** (Perú), apasionado
 ---
 
 🔭 **Actualmente trabajando en:**
-- **Brazo Robótico con ROS2:** Diseño, control y simulación de un manipulador robótico de 6 grados de libertad.
+- **Brazo Robótico con ROS2:** Diseño, control y simulación de un manipulador robótico de 7 grados de libertad.
 - **Traductor de Lenguaje de Señas:** Sistema de visión artificial para interpretar señas en tiempo real.
 
 🛠️ **Tecnologías y Herramientas:**
