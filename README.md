@@ -10,7 +10,7 @@ Soy estudiante de **Ingeniería Mecatrónica** en la **UTP** (Perú), apasionado
 
 🛠️ **Tecnologías y Herramientas:**
 - **Lenguajes:** C++, Python, MATLAB.
-- **Robótica:** ROS2 (Humble), Gazebo, MoveIt.
+- **Robótica:** ROS2 (Jazzy), Gazebo, MoveIt.
 - **Diseño 3D:** Fusion 360.
 - **Electrónica:** Arduino, ESP32, Sensores y Actuadores.
 
