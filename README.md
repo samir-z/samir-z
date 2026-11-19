@@ -1,4 +1,4 @@
-### Hola, soy Samir Zambrano (Joshua) 👋
+### Hola, soy Josh 👋
 
 Soy estudiante de **Ingeniería Mecatrónica** en la **UTP** (Perú), apasionado por la robótica, el espacio y la programación. Mi meta es desarrollar tecnología para la exploración espacial (NASA/JAXA). 🚀
 
